@@ -14,21 +14,21 @@ This is a robust, CCTV-based AI Attendance Management System.
 ## Architecture
 
 ```text
-CCTV Footage / Video / Webcam
+      CCTV Footage / Video / Webcam
               ↓
-       Person Detection (YOLOv8)
+      Person Detection (YOLOv8)
               ↓
-        Object Tracking (ByteTrack)
+      Object Tracking (ByteTrack)
               ↓
-       Face Detection (DeepFace / OpenCV)
+      Face Detection (DeepFace / OpenCV)
               ↓
       Face Recognition (DeepFace)
               ↓
-   Student Identification (Cosine Similarity)
+      Student Identification (Cosine Similarity)
               ↓
-    Attendance Verification (Cooldown / Daily check)
+      Attendance Verification (Cooldown / Daily check)
               ↓
-       Attendance Database (SQLite)
+      Attendance Database (SQLite)
               ↓
       Dashboard / Reports (CustomTkinter GUI)
 ```
@@ -46,7 +46,7 @@ python -m venv venv
 python -m pip install -r requirements.txt
 ```
 
-*(Note: If you run into any issues with missing dlls on Windows, make sure you have the Microsoft Visual C++ Redistributable installed. This project uses `DeepFace` and `ultralytics` YOLO.)*
+
 
 ## Usage
 

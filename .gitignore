@@ -2,6 +2,10 @@
 venv/
 .venv/
 
+# Database
+*.sqlite
+*.sqlite3
+
 # IDE
 .vscode/
 .idea/
@@ -29,3 +33,10 @@ __pycache__/
 
 # Logs
 *.log
+
+attendance_system.db
+models/trainer.yml
+
+# OS
+.DS_Store
+Thumbs.db
