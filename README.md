@@ -79,7 +79,7 @@ python main.py
 
 ### Dashboard
 
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/screenshots/Dashboard.png)
 
 ### Student Registration
 
