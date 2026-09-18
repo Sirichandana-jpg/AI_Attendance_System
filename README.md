@@ -75,6 +75,24 @@ python main.py
 - Go to the **Reports** tab to see today's attendance summary and export data to a CSV file.
 - The dashboard automatically computes the absent students list.
 
+## Application Screenshots
+
+### Dashboard
+
+![Dashboard](assets/screenshots/dashboard.png)
+
+### Student Registration
+
+![Student Registration](assets/screenshots/student_registration.png)
+
+### Attendance Recognition
+
+![Attendance Recognition](assets/screenshots/attendance_system.png)
+
+### Attendance Records
+
+![Attendance Records](assets/screenshots/attendance_records.png)
+
 ## Configuration
 
 Settings can be changed by modifying `configs/config.yaml`:
