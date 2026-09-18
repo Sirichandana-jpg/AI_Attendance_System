@@ -1,0 +1,6 @@
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+deepface>=0.0.79
+customtkinter>=5.2.0
+PyYAML>=6.0
+pandas>=2.0.0

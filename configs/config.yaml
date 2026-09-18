@@ -1,0 +1,16 @@
+detection:
+  confidence: 0.5
+  model: "yolov8n.pt"
+
+recognition:
+  threshold: 0.40 # Cosine distance threshold for Facenet or VGG-Face
+  model_name: "Facenet"
+  detector_backend: "opencv"
+
+video:
+  frame_skip: 2
+  resize_width: 640
+
+attendance:
+  duplicate_prevention: true
+  cooldown_seconds: 60

@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Dataset / face images
+dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment files
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Logs
+*.log
