@@ -9,7 +9,7 @@ This is a robust, CCTV-based AI Attendance Management System.
 - **YOLO Person Tracking:** Track people efficiently to prevent repeatedly processing identical faces.
 - **DeepFace Recognition:** Deep learning-based face embeddings and similarity scoring.
 - **Deduplication:** Prevents marking students multiple times per session/day.
-- **Dashboard & Reports:** Modern CustomTkinter GUI for viewing real-time attendance, present/absent students, and exporting reports.
+- **Dashboard & Reports:**  viewing real-time attendance, present/absent students, and exporting reports.
 
 ## Architecture
 
