@@ -30,7 +30,7 @@ This is a robust, CCTV-based AI Attendance Management System.
               ↓
       Attendance Database (SQLite)
               ↓
-      Dashboard / Reports (CustomTkinter GUI)
+      Dashboard / Reports 
 ```
 
 ## Installation
